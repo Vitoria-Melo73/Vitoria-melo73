@@ -1,16 +1,14 @@
-## Hi there 👋
+Olá, este é  meu primeiro projeto                                                                                                                                                                                                                                 Sobre o projeto                                                                                                                  Este é o meu repositório no Github                                                                                        Ele foi criado para praticar projetos e aprender a usar a plataforma                                                                                                                                                                                      Objetivo                                                                                                                 Entender como funciona um repositório 
+Criar e documentar um projeto
 
-<!--
-**Vitoria-Melo73/Vitoria-melo73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tecnologias ultiliadas
+- GitHub
+- Markdown
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  O que aprendi
+  - Como criar um repositório no GitHub
+  - Como editar e personaizar um README.md
+ 
+  - Próximos passos
+  - Iniciar meus estudos com HTML e CSS
+  - Publicar mais projetos
